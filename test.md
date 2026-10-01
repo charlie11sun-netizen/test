@@ -8,7 +8,7 @@
 
 ## 第二节：待修改
 
-这是第二节的初始内容，用于验证局部修改以及 GitHub PR 中的行级 diff。
+这是通过 LazyMind GitHub Writer 自动修改后的内容。
 
 ## 第三节：图片资源
 
